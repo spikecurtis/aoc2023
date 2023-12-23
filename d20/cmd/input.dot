@@ -1,0 +1,169 @@
+digraph {
+  lt [color = blue]
+  lt -> ng
+  lt -> vr
+  gb [color = blue]
+  gb -> vj
+  gb -> xd
+  mg [color = blue]
+  mg -> xd
+  broadcaster [color = red]
+  broadcaster -> qz
+  broadcaster -> tx
+  broadcaster -> jr
+  broadcaster -> hk
+  vk [color = green]
+  vk -> dt
+  qx [color = blue]
+  qx -> gb
+  hd [color = blue]
+  hd -> mg
+  hd -> xd
+  xz [color = blue]
+  xz -> lt
+  xz -> vr
+  vx [color = blue]
+  vx -> lj
+  vx -> pf
+  sb [color = blue]
+  sb -> lz
+  sb -> vr
+  mt [color = blue]
+  mt -> ts
+  lj [color = blue]
+  lj -> pf
+  lj -> fl
+  pm [color = green]
+  pm -> dt
+  ts [color = green]
+  ts -> dl
+  ts -> qm
+  ts -> kx
+  ts -> lq
+  ts -> bf
+  ts -> jr
+  bf [color = blue]
+  bf -> rr
+  vl [color = blue]
+  vl -> xd
+  vl -> bc
+  ng [color = blue]
+  ng -> vr
+  ng -> gx
+  zr [color = blue]
+  zr -> vx
+  zr -> pf
+  tx [color = blue]
+  tx -> jg
+  tx -> vr
+  jg [color = blue]
+  jg -> sb
+  qm [color = blue]
+  qm -> bf
+  xv [color = blue]
+  xv -> hq
+  xv -> xd
+  cd [color = blue]
+  cd -> vn
+  cd -> ts
+  lq [color = blue]
+  lq -> gk
+  dt [color = green]
+  dt -> rx
+  cn [color = blue]
+  cn -> vr
+  cn -> tr
+  vn [color = blue]
+  vn -> ts
+  vn -> lq
+  qn [color = blue]
+  qn -> zr
+  qn -> pf
+  hq [color = blue]
+  hq -> zt
+  vj [color = blue]
+  vj -> xd
+  vj -> hd
+  pp [color = blue]
+  pp -> zn
+  kk [color = blue]
+  kk -> vf
+  tv [color = blue]
+  tv -> rl
+  gx [color = blue]
+  gx -> vr
+  jr [color = blue]
+  jr -> ts
+  jr -> qm
+  tr [color = blue]
+  tr -> xz
+  vr [color = green]
+  vr -> tr
+  vr -> vf
+  vr -> tx
+  vr -> ks
+  vr -> kk
+  vr -> jg
+  gk [color = blue]
+  gk -> kx
+  gk -> ts
+  hk [color = blue]
+  hk -> pf
+  hk -> tv
+  fl [color = blue]
+  fl -> pp
+  fl -> pf
+  pf [color = green]
+  pf -> pp
+  pf -> tv
+  pf -> rl
+  pf -> pm
+  pf -> hk
+  pb [color = blue]
+  pb -> ts
+  pb -> mt
+  lz [color = blue]
+  lz -> kk
+  lz -> vr
+  kx [color = blue]
+  kx -> xg
+  cb [color = blue]
+  cb -> pf
+  gc [color = blue]
+  gc -> xv
+  xd [color = green]
+  xd -> qz
+  xd -> bc
+  xd -> zt
+  xd -> vk
+  xd -> hq
+  xd -> qx
+  xd -> gc
+  qz [color = blue]
+  qz -> xd
+  qz -> gc
+  xg [color = blue]
+  xg -> ts
+  xg -> pb
+  bc [color = blue]
+  bc -> qx
+  dl [color = green]
+  dl -> dt
+  rr [color = blue]
+  rr -> ts
+  rr -> cd
+  zt [color = blue]
+  zt -> vl
+  rl [color = blue]
+  rl -> qn
+  zn [color = blue]
+  zn -> vh
+  zn -> pf
+  vf [color = blue]
+  vf -> cn
+  vh [color = blue]
+  vh -> pf
+  vh -> cb
+  ks [color = green]
+  ks -> dt
+}
